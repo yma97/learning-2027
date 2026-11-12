@@ -2,8 +2,6 @@
 
 My learning log while rebuilding my CS and ML foundations alongside a full-time job, from first principles to applied AI systems.
 
-Background: CS (McGill), MSc Management of Technology (EPFL), working on the product and business side of a 3D reconstruction startup in Zurich.
-
 ## Structure
 
 | Folder | What's inside |
